@@ -16,6 +16,7 @@ import android.widget.Scroller;
  *
  * @author 明悦
  * @version 创建时间：2015年4月1日  上午10:29:24
+ * 自定义ViewGroup
  */
 public class VerticalViewPager extends ViewGroup {
 
